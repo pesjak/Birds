@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 65d217e86daf38547bfd288df0ccdff1
+timeCreated: 1429729811
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: allbirdsanimation75_0
+    21300002: allbirdsanimation75_1
+    21300004: allbirdsanimation75_2
+    21300006: allbirdsanimation75_3
+    21300008: allbirdsanimation75_4
+    21300010: allbirdsanimation75_5
+    21300012: allbirdsanimation75_6
+    21300014: allbirdsanimation75_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: allbirdsanimation75_0
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3627
+        width: 1221
+        height: 831
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allbirdsanimation75_1
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 3624
+        width: 1225
+        height: 933
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allbirdsanimation75_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2753
+        width: 1299
+        height: 787
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 42}
+    - name: allbirdsanimation75_3
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 2780
+        width: 1265
+        height: 647
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allbirdsanimation75_4
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1554
+        width: 1252
+        height: 802
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 17}
+    - name: allbirdsanimation75_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1594
+        width: 1234
+        height: 740
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allbirdsanimation75_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 537
+        width: 1212
+        height: 815
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: allbirdsanimation75_7
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 573
+        width: 1249
+        height: 654
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
